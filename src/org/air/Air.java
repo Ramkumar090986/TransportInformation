@@ -14,5 +14,10 @@ package org.air;
 		System.out.println("Aeroplane");
 		
 	}
+	
+	public void jet() {
+		System.out.println("Jet Airways");
+
+	}
 
 }
