@@ -14,5 +14,9 @@ package org.air;
 		System.out.println("Aeroplane");
 		
 	}
+	public void airforce() {
+		System.out.println("Airforce");
+
+	}
 
 }
